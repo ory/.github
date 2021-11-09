@@ -15,7 +15,7 @@ Check out our [open positions](https://www.ory.sh/jobs) for more.
 - [Ory Community](https://www.ory.sh/community/)
 - [GitHub Milestones, Issues, Pull Requests​](https://www.ory.sh/docs/ecosystem/roadmap#milestones-issues-pull-requests)
 
-Popular Blogposts:
+### Learn more
 
 - [Add Authentication to your React Native App ](https://www.ory.sh/login-react-native-authentication-example-api/)
 - [Run your own OAuth 2.0 server](https://www.ory.sh/run-oauth2-server-open-source-api-security/)
