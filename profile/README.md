@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ory/.github/blob/README/img/ory.png" />
+  <img src="../img/ory.png" width="215" height="110" />
 </p>
 
 Ory provides a common access control, authorization and identity infrastructure with open source projects such as [Ory Kratos](https://github.com/ory/kratos/), [Ory Hydra](https://github.com/ory/hydra/), [Ory Keto](https://github.com/ory/keto/) and [Ory Oathkeeper](https://github.com/ory/oathkeeper/).
@@ -17,6 +17,7 @@ Check out our [open positions](https://www.ory.sh/jobs) for more.
 
 ### Learn more
 
+- [Add Authentication to your Next.js / React Single Page Application (SPA)](https://www.ory.sh/login-spa-react-nextjs-authentication-example-api-open-source/)
 - [Add Authentication to your React Native App ](https://www.ory.sh/login-react-native-authentication-example-api/)
 - [Run your own OAuth 2.0 server](https://www.ory.sh/run-oauth2-server-open-source-api-security/)
 - E-Commerce with Ory Cloud [Part 1: Backend](https://www.ory.sh/cloud-ecommerce-backend/)  [Part 2: Frontend](https://www.ory.sh/cloud-ecommerce-backend/)
