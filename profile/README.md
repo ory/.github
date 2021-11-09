@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/ory/.github/blob/README/img/ory.png" />
-</p>
 
 Ory provides a common access control, authorization and identity infrastructure with open source projects such as [Ory Kratos](https://github.com/ory/kratos/), [Ory Hydra](https://github.com/ory/hydra/), [Ory Keto](https://github.com/ory/keto/) and [Ory Oathkeeper](https://github.com/ory/oathkeeper/).
 
