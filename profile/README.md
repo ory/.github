@@ -6,8 +6,8 @@ Ory is the largest open source community in the world for application security.
 We maintain advanced open source security software solving authentication,
 authorization, access control, application network security, and delegation.
 Ory implements a variety of best-practice standards including OAuth 2.0 / OAuth 2.1,
-OpenID Connect, Zero Trust Networking, Zanzibar Policy Framework, FIDO2 U2F, WebAuthn,
-TOTP, and many, many more.
+OpenID Connect, Zero Trust Networking, Google Zanzibar Policy Framework, FIDO2 U2F,
+WebAuthn, TOTP, and many, many more.
 
 - [Ory Kratos](https://github.com/ory/kratos) is a fully customizable, API-only
  platform for login, two-factor authentication, social sign in, passwordless
