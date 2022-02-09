@@ -2,14 +2,24 @@
   <img src="https://raw.githubusercontent.com/ory/.github/README/img/ory.png" width="215" height="110" alt="Ory - open source security infrastructure" />
 </p>
 
-🔥🔥🔥 **Try Ory Cloud now, [free for developers](https://console.ory.sh/registration?utm_source=github&utm_medium=banner&utm_campaign=org-readme) forever, no credit card required! Or if you are a Start Up take the opportunity to get [Ory Cloud's Start Up plan free for the first year](https://share-eu1.hsforms.com/1KWJxgKzNQWOjR9r5blC41wextgn)!** 🔥🔥🔥
-
 Ory is the largest open source community in the world for application security.
 We maintain advanced open source security software solving authentication,
 authorization, access control, application network security, and delegation.
 Ory implements a variety of best-practice standards including OAuth 2.0 / OAuth 2.1,
 OpenID Connect, Zero Trust Networking, Google Zanzibar Policy Framework, FIDO2 U2F,
 WebAuthn, TOTP, and many, many more.
+
+## Ory Cloud
+
+The easiest way to get started with Ory Software is in Ory Cloud! It is [**free for developers**](https://console.ory.sh/registration?utm_source=github&utm_medium=banner&utm_campaign=org-readme), forever, no credit card required!
+
+Ory Cloud has easy examples, administrative user interfaces, hosted pages (e.g. for login or registration), support for custom domains, collaborative features for your colleagues, and much more!
+
+### :mega: Community gets Ory Cloud for Free! :mega:
+
+Ory community members get the Ory Cloud Start Up plan **free for a year**, with all quality-of-life features available, such as custom domains and giving your team members access. [Sign up with your GitHub account](https://console.ory.sh/registration?preferred_plan=developer&utm_source=github&utm_medium=banner&utm_campaign=org-readme-first900) and use the coupon code **`FIRST900`** on the *"Start-Up Plan"* checkout page to calim your free project now! Make sure to be signed up to the [Ory Community Slack](https://slack.ory.sh) when using the code!
+
+## Ory Software
 
 - [Ory Kratos](https://github.com/ory/kratos) is a fully customizable, API-only
  platform for login, two-factor authentication, social sign in, passwordless
@@ -26,16 +36,6 @@ WebAuthn, TOTP, and many, many more.
  [Google's Zanzibar](https://research.google/pubs/pub48190/) research paper, an
  infinitely scalable and blazing fast authorization and permission service.
  Think RBAC on globally distributed steroids.
- 
-## Ory Cloud
-
-The best place to run Ory software is in [Ory Cloud](https://www.ory.sh/?utm_source=github&utm_medium=banner&utm_campaign=org-readme).
-With Ory Cloud, you do not need to worry about getting things to work in Docker,
-Kubernetes, scalability, latency, applying security patches in time, or legal risk. Ory Cloud
-also offers user and administrative interfaces, helping your non-developer
-colleagues to also administrate users, permissions, OAuth2, and more!
-
-**Try Ory Cloud now, [free for developers](https://console.ory.sh/registration?utm_source=github&utm_medium=banner&utm_campaign=org-readme) forever, no credit card required! Or if you are a Start Up take the opportunity to get [Ory Cloud's Start Up plan free for the first year](https://share-eu1.hsforms.com/1KWJxgKzNQWOjR9r5blC41wextgn)!**
 
 ## Get Started
 
