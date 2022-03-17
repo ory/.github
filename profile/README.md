@@ -27,7 +27,7 @@ Ory community members get the Ory Cloud Start Up Plan **free for a year**, with 
  and user management.
 - [Ory Hydra](https://github.com/ory/hydra) is an API-only, "headless," OAuth 2.0 and OpenID
  Connect provider that can interface with any identity and user management
- system, e.g. Ory Kratos, Firebase, your PHP app, LDAP, SAML, etc.
+ system, such as Ory Kratos, Firebase, your PHP app, LDAP, SAML, and others.
 - [Ory Oathkeeper](https://github.com/ory/oathkeeper) is a zero trust networking
  proxy and sidecar for popular Ingress services and API gateways. It checks if
  incoming network request are authenticated, and allowed to perform the
