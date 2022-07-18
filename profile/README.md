@@ -15,10 +15,6 @@ Ory Cloud is the easiest way to get started with Ory Software! It is [**free for
 
 Ory Cloud has easy to understand, simple examples, administrative user interfaces, hosted pages, e.g. for login or registration, support for custom domains, collaborative features for your colleagues, and much more!
 
-### :mega: Community gets Ory Cloud for Free! :mega:
-
-Ory community members get the Ory Cloud Start Up Plan **free for half a year**, with some convenient features, such as custom domains, and assigning your team members access. [Sign up with your GitHub account](https://console.ory.sh/registration?preferred_plan=start-up&utm_source=github&utm_medium=banner&utm_campaign=org-readme-first900) and use the coupon code **`FIRST900`** on the *"Start-Up Plan"* checkout page to claim a free project now! Make sure to be signed up to the [Ory Community Slack](https://slack.ory.sh) when using the code!
-
 ## Ory Software
 
 - [Ory Kratos](https://github.com/ory/kratos) is a fully customizable, API-only
