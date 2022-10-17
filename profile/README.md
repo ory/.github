@@ -7,15 +7,41 @@ We maintain advanced open source security software solving authentication,
 authorization, access control, application network security, and delegation.
 Ory implements a variety of industry and best-practice standards including OAuth 2.0 / OAuth 2.1,
 OpenID Connect, Zero Trust Networking, Google Zanzibar Policy Framework, FIDO2 U2F,
-WebAuthn, TOTP, and other emerging standards for cloud computing such as the GO programming language.
+WebAuthn, TOTP, and more.
 
-## Ory Cloud
+## The Ory Network
 
-Ory Cloud is the easiest way to get started with Ory Software! It is [**free for developers**](https://console.ory.sh/registration?utm_source=github&utm_medium=banner&utm_campaign=org-readme), and there is no credit card required!
+The [Ory Network](https://www.ory.sh/cloud) is the fastest, most secure and worry-free way to use Ory's Services:
 
-Ory Cloud has easy to understand, simple examples, administrative user interfaces, hosted pages, e.g. for login or registration, support for custom domains, collaborative features for your colleagues, and much more!
+* Fully managed, highly available, maintenance-free services 
+* GDPR-compliant secure storage with data regionality 
+* Cloud-native APIs, compatible with Ory's Open Source servers
+* Pre-built login, registration and account management pages (Ory Account Experience)
+* Comprehensive admin tools with the web-based Ory Console and the Ory Command Line Interface (CLI)
+* Fair, usage-based [pricing](https://www.ory.sh/pricing)
+* Extensive documentation, straighforward examples and easy-to-follow guides
 
-## Ory Software
+
+Sign up for a [**free developer account**](https://console.ory.sh/registration?utm_source=github&utm_medium=banner&utm_campaign=org-readme) today!
+
+
+
+## Ory Services
+
+- Do you need to add login and registration forms to your app or website?
+   **Choose [Ory Identities](https://www.ory.sh/docs/kratos)**!
+- Do you need advanced delegation and machine to machine authentication? Are you
+   looking to become the next Social Sign In system supporting OpenID Connect and
+   OAuth2? **Choose [Ory OAuth2 &amp; OpenID](https://www.ory.sh/docs/hydra)**!
+- Do you need a fast and high performance system to solve roles, permissions, access
+   control lists, RBAC? **Choose [Ory Permissions](https://www.ory.sh/docs/keto)**!
+- Do you need to secure your services and APIs to protect against malicious
+   actors in either the internet or your infrastructure, or both? **Choose
+   [Ory Oathkeeper](https://www.ory.sh/docs/oathkeeper)**!
+
+
+## Ory Open Source Servers
+
 
 - [Ory Kratos](https://github.com/ory/kratos) is a fully customizable, API-only
  platform for login, two-factor authentication, social sign in, passwordless
@@ -32,21 +58,6 @@ Ory Cloud has easy to understand, simple examples, administrative user interface
  [Google's Zanzibar](https://research.google/pubs/pub48190/) research paper, an
  infinitely scalable and blazing fast authorization and permissioning service - RBAC on globally distributed steroids.
 
-## Get Started
-
-Getting started with Ory is easy. Yet, there are so many things to
-learn and explore! We recommend to choose a focus area first to get started:
-
-- Do you need to add login and registration forms to your app or website?
-   **Choose [Ory Kratos](https://www.ory.sh/docs/kratos)**!
-- Do you need advanced delegation and machine to machine authentication? Are you
-   looking to become the next Social Sign In system supporting OpenID Connect and
-   OAuth2? **Choose [Ory Hydra](https://www.ory.sh/docs/hydra)**!
-- Do you need a fast and high performance system to solve roles, permissions, access
-   control lists, RBAC? **Choose [Ory Keto](https://www.ory.sh/docs/keto)**!
-- Do you need to secure your services and APIs to protect against malicious
-   actors in either the internet or your infrastructure, or both? **Choose
-   [Ory Oathkeeper](https://www.ory.sh/docs/oathkeeper)**!
 
 ## We're Hiring
 
