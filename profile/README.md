@@ -18,7 +18,7 @@ worry-free way to use Ory's Services. It provides the infrastructure for modern 
 - Registration, Login and Account management flows for passkey, biometric,
   social, SSO and multi-factor authentication
 - Pre-built login, registration and account management pages and components
-- OAuth2 and OpenID provider for single sign on, API access and
+- OAuth2 and OpenID Connect provider for single sign on, API access and
   machine-to-machine authorization
 - Low-latency permission checks based on Google's Zanzibar model and with
   built-in support for the Ory Permission Language
