@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/ory/.github/README/img/ory.png" width="215" height="110" alt="Ory - open source security infrastructure" />
 </p>
 
-Ory is the largest open source community in the world for cloud software application security.
-We maintain advanced open source security software solving authentication,
+Ory is the world's largest open-source community for cloud software application security.
+We maintain advanced open-source security software solving authentication,
 authorization, access control, application network security, and delegation.
 Ory implements a variety of industry and best-practice standards including OAuth 2.0 / OAuth 2.1,
 OpenID Connect, Zero Trust Networking, Google Zanzibar Policy Framework, FIDO2 U2F,
@@ -11,14 +11,14 @@ WebAuthn, TOTP, and more.
 
 ## The Ory Network
 
-The [Ory Network](https://www.ory.sh/cloud) is the fastest, most secure and
+The [Ory Network](https://www.ory.sh/cloud) is the fastest, most secure, and
 worry-free way to use Ory's Services. It provides the infrastructure for modern end-to-end security:
 
 - Identity & credential management scaling to billions of users and devices
-- Registration, Login and Account management flows for passkey, biometric,
-  social, SSO and multi-factor authentication
-- Pre-built login, registration and account management pages and components
-- OAuth2 and OpenID Connect provider for single sign on, API access and
+- Registration, login, and account management flows for passkeys, biometric authentication,
+  social sign-in, SSO, and multi-factor authentication
+- Pre-built login, registration, and account management pages and components
+- OAuth2 and OpenID Connect provider for single sign-on, API access, and
   machine-to-machine authorization
 - Low-latency permission checks based on Google's Zanzibar model and with
   built-in support for the Ory Permission Language
@@ -26,10 +26,10 @@ worry-free way to use Ory's Services. It provides the infrastructure for modern 
 It's fully managed, highly available, developer & compliance-friendly!
 
 - GDPR-friendly secure storage with data locality
-- Cloud-native APIs, compatible with Ory's Open Source servers
+- Cloud-native APIs, compatible with Ory's open-source servers
 - Comprehensive admin tools with the web-based Ory Console and the Ory Command
   Line Interface (CLI)
-- Extensive documentation, straightforward examples and easy-to-follow guides
+- Extensive documentation, straightforward examples, and easy-to-follow guides
 - Fair, usage-based [pricing](https://www.ory.sh/pricing)
 
 Sign up for a [**free developer account**](https://console.ory.sh/registration?utm_source=github&utm_medium=banner&utm_campaign=org-readme) today!
@@ -49,20 +49,20 @@ Sign up for a [**free developer account**](https://console.ory.sh/registration?u
    [Ory Oathkeeper](https://www.ory.sh/docs/oathkeeper)**!
 
 
-## Ory Open Source Servers
+## Ory Open-Source Servers
 
 - [Ory Kratos](https://github.com/ory/kratos) is a fully customizable, API-only
- platform for login, two-factor authentication, social sign in, passwordless
+ platform for login, two-factor authentication, social sign-in, passwordless
  flows, registration, account recovery, email / phone verification, secure credentials, identity
  and user management.
 - [Ory Hydra](https://github.com/ory/hydra) is an API-only, "headless," OAuth 2.0 and OpenID
  Connect provider that can interface with any identity and user management
  system, such as Ory Kratos, Firebase, your PHP app, LDAP, SAML, and others.
 - [Ory Oathkeeper](https://github.com/ory/oathkeeper) is a zero trust networking
- proxy and sidecar for popular Ingress services and API gateways. It checks if
- incoming network request are authenticated, and allowed to perform the
+ proxy and sidecar for popular ingress services and API gateways. It checks if
+ incoming network request are authenticated and allowed to perform the
  requested action.
-- [Ory Keto](https://github.com/ory/keto) is the world's first and leading open source implementation of
+- [Ory Keto](https://github.com/ory/keto) is the world's first and leading open-source implementation of
  [Google's Zanzibar](https://research.google/pubs/pub48190/) research paper, an
  infinitely scalable and blazing fast authorization and permissioning service - RBAC on globally distributed steroids.
 
