@@ -9,7 +9,7 @@ Ory implements a variety of industry and best-practice standards including OAuth
 OpenID Connect, Zero Trust Networking, Google Zanzibar Policy Framework, FIDO2 U2F,
 WebAuthn, TOTP, and more.
 
-## The Ory Network
+## Ory Network
 
 The [Ory Network](https://www.ory.sh/cloud) is the fastest, most secure, and
 worry-free way to use Ory's Services. It provides the infrastructure for modern end-to-end security:
