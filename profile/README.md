@@ -11,7 +11,7 @@ solutions that empower developers to build innovative applications. Whether
 you're handling billions of users or launching a startup, Ory makes security and
 compliance simple with open-source transparency and cutting-edge tools.
 
-## Why engineers choose Ory in 2025
+## Why engineers choose Ory
 
 - **API-first identity management**: Ory offers a developer-friendly, headless
   approach to user authentication and management with seamless frontend and
