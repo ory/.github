@@ -34,7 +34,7 @@ compliance simple with open-source transparency and cutting-edge tools.
   tools, and join a vibrant community of engineers solving modern security
   challenges.
 
-> [!TIP] Got questions about Ory or need help choosing the right solution for
+> Got questions about Ory or need help choosing the right solution for
 > your needs? Our team is here to help!
 > [Contact us today](https://ory.sh/contact) to speak to an expert.
 
