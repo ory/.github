@@ -22,6 +22,10 @@ you can implement:
 Ory follows industry standards like OAuth 2.0, OpenID Connect, FIDO2, and more,
 trusted by organizations globally for billions of daily requests.
 
+> [!TIP] Got questions about Ory or need help choosing the right solution for
+> your needs? Our team is here to help!
+> [Contact us today](https://ory.sh/contact) to speak to an expert.
+
 ## Why developers choose Ory
 
 - **Headless and API-first design**: Integrate easily into any frontend or
