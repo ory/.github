@@ -1,82 +1,115 @@
 <p align="center">
-  <a href="https://www.ory.sh/network" target="_blank"><img src="https://raw.githubusercontent.com/ory/.github/README/img/ory.png" width="215" height="110" alt="Ory - open source security infrastructure" /></a>
+  <a href="https://www.ory.sh" target="_blank">
+    <img src="https://raw.githubusercontent.com/ory/.github/README/img/ory.png" width="215" height="110" alt="Ory - Open-source identity and access infrastructure" />
+  </a>
 </p>
 
-Ory is the world's largest open-source community for cloud software application
-security. We maintain advanced open-source security software solving
-authentication, authorization, access control, application network security, and
-delegation. Ory implements a variety of industry and best-practice standards
-including OAuth 2.0 / OAuth 2.1, OpenID Connect, Zero Trust Networking, Google
-Zanzibar Policy Framework, FIDO2 U2F, WebAuthn, TOTP, and more.
+# Ory: Open-source identity and access infrastructure for modern applications
 
-<aside style="padding: 1em; margin: 1em 0; border-left: 5px solid #302e7c; border-radius: 5px; font-style: italic;">
-Got questions about Ory or need help choosing the right solution for your needs?
-Our team is here to help! <a href="https://ory.sh/contact" target="_blank">Contact us today</a> to speak to an expert.
-</aside>
+Ory provides scalable, flexible, and secure identity and access management (IAM)
+solutions that empower developers to build innovative applications. Whether
+you're handling billions of users or launching a startup, Ory makes security and
+compliance simple with open-source transparency and cutting-edge tools.
 
-## Ory Network
+## Why engineers choose Ory
 
-The [Ory Network](https://www.ory.sh/network) is the fastest, most secure, and
-worry-free way to use Ory's Services. It provides the infrastructure for modern
-end-to-end security:
+- **API-first identity management**: Ory offers a developer-friendly, headless
+  approach to user authentication and management with seamless frontend and
+  backend integration.
+- **Modern access control**: Implement fine-grained permissions,
+  relationship-based access control (RBAC/ABAC), and Zero Trust principles with
+  Ory's high-performance tools.
+- **Web-grade scalability**: Built with cloud-native technologies, Ory scales
+  effortlessly to support hundreds of millions of active users and devices for
+  the largest websites in the world.
+- **Best-in-class security**: Meet stringent security standards with
+  passwordless login, multi-factor authentication (MFA), and adherence to GDPR
+  and other privacy regulations.
+- **Modular architecture**: Use what you need—identity, OAuth2,
+  permissions—without overhauling your stack, and extend functionality with
+  custom integrations.
+- **Open-source transparency**: Fully audit, customize, and contribute to Ory’s
+  codebase for ultimate flexibility.
+- **Developer tools and community**: Access extensive documentation, SDKs, CLI
+  tools, and join a vibrant community of engineers solving modern security
+  challenges.
 
-- Do you need to add login and registration forms to your app or website?
-  **Choose [Ory Identities](https://www.ory.sh/docs/kratos)**!
-  - Identity & credential management scaling to billions of users and devices
-  - Registration, login, and account management flows for passkeys, biometric
-    authentication, social sign-in, SSO, and multi-factor authentication
-  - Pre-built login, registration, and account management pages and components
-- Do you need advanced delegation and machine to machine authentication? Are you
-  looking to become the next Social Sign In system supporting OpenID Connect and
-  OAuth2? **Choose [Ory OAuth2 &amp; OpenID](https://www.ory.sh/docs/hydra)**!
-  - OAuth2 and OpenID Connect provider for single sign-on, API access, and
-    machine-to-machine authorization
-- Do you need a fast and high performance system to solve roles, permissions,
-  access control lists, RBAC? **Choose
-  [Ory Permissions](https://www.ory.sh/docs/keto)**!
-  - Low-latency permission checks based on Google's Zanzibar model with built-in
-    support for the Ory Permission Language
+> [!TIP] Got questions about Ory or need help choosing the right solution for
+> your needs? Our team is here to help!
+> [Contact us today](https://ory.sh/contact) to speak to an expert.
 
-Ory Network is fully managed, highly available, developer & compliance-friendly!
+## Ory tools and services
 
-- GDPR-friendly secure storage with data locality
-- Cloud-native APIs, compatible with Ory's open-source servers
-- Comprehensive admin tools with the web-based Ory Console and the Ory Command
-  Line Interface (CLI)
-- Extensive documentation, straightforward examples, and easy-to-follow guides
-- Fair, transparent, usage-based [pricing](https://www.ory.sh/pricing)
+### Ory Network
 
-Sign up for a
-[**free developer account**](https://console.ory.sh/registration?utm_source=github&utm_medium=banner&utm_campaign=org-readme)
-today!
+The [Ory Network](https://www.ory.sh/network) is a managed IAM service that
+provides:
 
-## Ory Open Source
+- **Pre-built components**: Ready-to-use login, registration, and account
+  recovery flows.
+- **Scalable infrastructure**: Infinite scalability with low-latency APIs.
+- **Advanced security**: Threat prevention and privacy compliance (GDPR).
+- **Developer support**: SDKs for popular languages and customizable ReactJS
+  components.
 
-- [Ory Kratos](https://github.com/ory/kratos) is a fully customizable, API-only
-  platform for login, two-factor authentication, social sign-in, passwordless
-  flows, registration, account recovery, email / phone verification, secure
-  credentials, identity and user management.
-- [Ory Hydra](https://github.com/ory/hydra) is an API-only, "headless," OAuth
-  2.0 and OpenID Connect provider that can interface with any identity and user
-  management system, such as Ory Kratos, Firebase, your PHP app, LDAP, SAML, and
-  others.
-- [Ory Keto](https://github.com/ory/keto) is the world's first and leading
-  open-source implementation of
-  [Google's Zanzibar](https://research.google/pubs/pub48190/) research paper, an
-  infinitely scalable and blazing fast authorization and permissioning service -
-  RBAC on globally distributed steroids.
-- [Ory Oathkeeper](https://github.com/ory/oathkeeper) is a zero trust networking
-  proxy and sidecar for popular ingress services and API gateways. It checks if
-  incoming network request are authenticated and allowed to perform the
-  requested action.
-- [Ory Dockertest](https://github.com/ory/dockertest) - Write better integration
-  tests! Dockertest helps you boot up ephermal docker images for your Go tests
-  with minimal work.
+[Sign up for free](https://console.ory.sh/registration?utm_source=github&utm_medium=banner&utm_campaign=org-readme)
+and focus on building your application while Ory handles the complexity of IAM.
 
-## We're Hiring
+### Ory self-hosted
 
-We are looking for talented, creative people to build the future of Ory with our
-tremendous open source community! Check out our
-[open positions](https://www.ory.sh/jobs) if you're interested! If you are a
-contributor, and have a deep desire to code, document, or just build with Ory,
-let us know. Ory is growing.
+For businesses looking to self-host Ory tools, we recommend:
+
+- **Ory Enterprise License**: Unlock enterprise-grade features like SAML and B2B
+  organization, security SLAs for CVEs, and enhanced scalability options.
+- **Ory Support Subscription**: Gain direct access to Ory’s expert support team,
+  ensuring your critical login infrastructure remains intact even in times of
+  crisis.
+
+Both options help you maximize the value of Ory’s solutions while maintaining
+full control over your infrastructure. [Contact us](https://www.ory.sh/contact)
+to learn more.
+
+## Trusted, verified, and hardened: open-source
+
+- **[Ory Kratos](https://github.com/ory/kratos)**: Advanced identity and user
+  management, featuring passkeys, passwordless login, 2FA, and social sign-in.
+- **[Ory Hydra](https://github.com/ory/hydra)**: OAuth 2.0 and OpenID Connect
+  provider for secure API access and single sign-on.
+- **[Ory Keto](https://github.com/ory/keto)**: Relationship-based access control
+  for scalable and fine-grained permissions management.
+- **[Ory Oathkeeper](https://github.com/ory/oathkeeper)**: A Zero Trust
+  networking proxy for API authentication and authorization.
+- **[Ory Dockertest](https://github.com/ory/dockertest)**: Simplify integration
+  testing with ephemeral Docker containers.
+
+## Developer resources
+
+- **Documentation**: Comprehensive guides and API references at
+  [ory.sh/docs](https://www.ory.sh/docs).
+- **Community**: Engage with other developers on
+  [Slack](https://www.ory.sh/chat) and
+  [GitHub Discussions](https://github.com/ory).
+- **CLI and SDKs**: Leverage Ory’s command-line tools and SDKs for seamless
+  integration.
+- **Support**: Get enterprise-grade assistance or explore self-service
+  resources.
+
+## Join the Ory community
+
+We’re looking for developers, technical writers, and open-source contributors to
+join our mission of making IAM accessible and secure for everyone.
+
+- [Explore open positions](https://www.ory.sh/jobs)
+- [Learn how to contribute](https://www.ory.sh/contribute)
+
+## Learn more
+
+- **[Website](https://www.ory.sh)**
+- **[Documentation](https://www.ory.sh/docs)**
+- **[GitHub](https://github.com/ory)**
+- **[Blog](https://www.ory.sh/blog)**
+- **[Contact us](https://ory.sh/contact)**
+
+Secure your app with Ory’s open-source identity and access solutions. Build with
+confidence, innovate faster, and join a global community of engineers shaping
+the future of application security.
