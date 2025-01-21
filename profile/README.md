@@ -93,14 +93,9 @@ to learn more.
   integration.
 - **Support**: Get enterprise-grade assistance or explore self-service
   resources.
-
-## Join the Ory community
-
-We’re looking for developers, technical writers, and open-source contributors to
-join our mission of making IAM accessible and secure for everyone.
-
-- [Explore open positions](https://www.ory.sh/jobs)
-- [Learn how to contribute](https://www.ory.sh/contribute)
+- **Contributing**: Help us improve Ory by contributing to our open-source
+  projects.
+  [Learn how to contribute](https://www.ory.sh/docs/ecosystem/contributing).
 
 ## Learn more
 
