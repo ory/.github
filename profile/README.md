@@ -72,6 +72,7 @@ For businesses looking to self-host
   provider for secure API access and single sign-on.
 - **[Ory Keto](https://github.com/ory/keto)**: Relationship-based access control
   for scalable and fine-grained permissions management.
+- **[Ory Polis](https://github.com/ory/polis)**: Enterprise SSO service that bridges SAML and OIDC to OAuth2/OIDC flows and supports SCIM 2.0 for user provisioning.
 - **[Ory Oathkeeper](https://github.com/ory/oathkeeper)**: A Zero Trust
   networking proxy for API authentication and authorization.
 - **[Ory Dockertest](https://github.com/ory/dockertest)**: Simplify integration
