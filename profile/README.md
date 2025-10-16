@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.ory.sh" target="_blank">
+  <a href="https://www.ory.com" target="_blank">
     <img src="https://raw.githubusercontent.com/ory/.github/README/img/ory.png" width="215" height="110" alt="Ory - Open-source identity and access infrastructure" />
   </a>
 </p>
@@ -35,14 +35,14 @@ simple with open-source transparency and cutting-edge tools.
   challenges.
 
 > Got questions or need help choosing the right solution for your needs? The Ory
-> team is here to help! [Contact Ory today](https://ory.sh/contact) to speak to
+> team is here to help! [Contact Ory today](https://ory.com/contact) to speak to
 > an expert.
 
 ## Ory tools and services
 
 ### Ory Network
 
-[Ory Network](https://www.ory.sh/network) is a managed IAM service that
+[Ory Network](https://www.ory.com/network) is a managed IAM service that
 provides:
 
 - **Pre-built components**: Ready-to-use login, registration, and account
@@ -62,7 +62,7 @@ For businesses looking to self-host
 - **Ory Enterprise License**: Unlock enterprise-grade features like security
   SLAs for CVEs, SAML, B2B organizations, multi-tenancy, and better scalability.
 
-[Contact Ory experts](https://www.ory.sh/contact) to learn more.
+[Contact Ory experts](https://www.ory.com/contact) to learn more.
 
 ## Trusted, verified, and hardened: Ory open-source
 
@@ -81,32 +81,32 @@ For businesses looking to self-host
 ## Developer resources
 
 - **Documentation**: Comprehensive guides and API references at
-  [ory.sh/docs](https://www.ory.sh/docs).
+  [ory.com/docs](https://www.ory.com/docs).
 - **Community**: Engage with other developers on
-  [Slack](https://www.ory.sh/chat) and
+  [Slack](https://www.ory.com/chat) and
   [GitHub Discussions](https://github.com/ory).
 - **CLI and SDKs**:
-  [Ory command-line tools](https://www.ory.sh/docs/guides/cli/cli-basics) and
-  [Ory SDKs](https://www.ory.sh/docs/sdk).
-- **Support**: [Get enterprise-grade support](https://ory.sh/contact) or
-  [explore self-service resources](https://www.ory.sh/docs/ecosystem/projects).
+  [Ory command-line tools](https://www.ory.com/docs/guides/cli/cli-basics) and
+  [Ory SDKs](https://www.ory.com/docs/sdk).
+- **Support**: [Get enterprise-grade support](https://ory.com/contact) or
+  [explore self-service resources](https://www.ory.com/docs/ecosystem/projects).
 
 ## Join the Ory community
 
 Ory is looking for developers, technical writers, and open-source contributors
 to make IAM for everyone.
 
-- [Join Ory Community Slack](https://slack.ory.sh/)
-- [Explore open positions](https://www.ory.sh/jobs)
-- [Learn how to contribute](https://www.ory.sh/docs/ecosystem/contributing)
+- [Join Ory Community Slack](https://slack.ory.com/)
+- [Explore open positions](https://www.ory.com/jobs)
+- [Learn how to contribute](https://www.ory.com/docs/ecosystem/contributing)
 
 ## Learn more
 
-- **[Website](https://www.ory.sh)**
-- **[Documentation](https://www.ory.sh/docs)**
+- **[Website](https://www.ory.com)**
+- **[Documentation](https://www.ory.com/docs)**
 - **[GitHub](https://github.com/ory)**
-- **[Blog](https://www.ory.sh/blog)**
-- **[Contact](https://ory.sh/contact)**
+- **[Blog](https://www.ory.com/blog)**
+- **[Contact](https://ory.com/contact)**
 
 Secure your app with Ory’s open-source identity and access solutions. Build with
 confidence, innovate faster, and join a global community of engineers shaping
