@@ -52,7 +52,7 @@ provides:
 - **Developer support**: SDKs for popular languages and customizable ReactJS
   components.
 
-[Sign up for free](https://console.ory.sh/registration?utm_source=github&utm_medium=banner&utm_campaign=org-readme)
+[Sign up for free](https://console.ory.com/registration?utm_source=github&utm_medium=banner&utm_campaign=org-readme)
 and focus on building your application while Ory handles the complexity of IAM.
 
 ### Ory self-hosted
@@ -66,19 +66,28 @@ For businesses looking to self-host
 
 ## Trusted, verified, and hardened: Ory open-source
 
-- **[Ory Kratos](https://github.com/ory/kratos)**: Advanced identity and user
-  management, featuring passkeys, passwordless login, 2FA, and social sign-in.
-- **[Ory Hydra](https://github.com/ory/hydra)**: OAuth 2.0 and OpenID Connect
-  provider for secure API access and single sign-on.
-- **[Ory Keto](https://github.com/ory/keto)**: Relationship-based access control
-  for scalable and fine-grained permissions management.
-- **[Ory Talos](https://github.com/ory/talos)**: Web-scale API key server with
-  token derivation for agentic and edge auth.
-- **[Ory Polis](https://github.com/ory/polis)**: Enterprise SSO service that bridges SAML and OIDC to OAuth2/OIDC flows and supports SCIM 2.0 for user provisioning.
-- **[Ory Oathkeeper](https://github.com/ory/oathkeeper)**: A Zero Trust
+- **[Ory Kratos](https://www.ory.com/kratos)**
+  ([Kratos on GitHub](https://github.com/ory/kratos)): Advanced identity and
+  user management, featuring passkeys, passwordless login, 2FA, and social
+  sign-in.
+- **[Ory Hydra](https://www.ory.com/hydra)**
+  ([Hydra on GitHub](https://github.com/ory/hydra)): OAuth 2.0 and OpenID
+  Connect provider for secure API access and single sign-on.
+- **[Ory Keto](https://www.ory.com/keto)**
+  ([Keto on GitHub](https://github.com/ory/keto)): Relationship-based access
+  control for scalable and fine-grained permissions management.
+- **[Ory Talos](https://www.ory.com/talos)**
+  ([Talos on GitHub](https://github.com/ory/talos)): Web-scale API key server
+  with token derivation for agentic and edge auth.
+- **[Ory Polis](https://www.ory.com/polis)**
+  ([Polis on GitHub](https://github.com/ory/polis)): Enterprise SSO service
+  that bridges SAML and OIDC to OAuth2/OIDC flows and supports SCIM 2.0 for
+  user provisioning.
+- **[Ory Oathkeeper](https://www.ory.com/oathkeeper)**
+  ([Oathkeeper on GitHub](https://github.com/ory/oathkeeper)): A Zero Trust
   networking proxy for API authentication and authorization.
-- **[Ory Lumen](https://github.com/ory/lumen)**: Save up to 30% in token use with
-  local semantic search.
+- **[Ory Lumen](https://github.com/ory/lumen)**: Save up to 30% in token use
+  with local semantic search.
 - **[Ory Dockertest](https://github.com/ory/dockertest)**: Simplify integration
   testing with ephemeral Docker containers.
 
