@@ -1,6 +1,10 @@
 <p align="center">
   <a href="https://www.ory.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/ory/.github/README/img/ory.png" width="215" height="110" alt="Ory - Open-source identity and access infrastructure" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ory/.github/README/img/ory-logo-white.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ory/.github/README/img/ory-logo-neutral.svg" />
+      <img src="https://raw.githubusercontent.com/ory/.github/README/img/ory-logo-neutral.svg" width="176" alt="Ory - Open-source identity and access infrastructure" />
+    </picture>
   </a>
 </p>
 
