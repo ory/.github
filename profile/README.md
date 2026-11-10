@@ -65,6 +65,7 @@ For businesses looking to self-host
 
 - **Ory Enterprise License**: Unlock enterprise-grade features like security
   SLAs for CVEs, SAML, B2B organizations, multi-tenancy, and better scalability.
+- **Ory Continuous Security License:** Protect production from fast-moving exploits with budget-friendly, SLA-backed CVE patching delivered around the clock.
 
 [Contact Ory experts](https://www.ory.com/contact) to learn more.
 
